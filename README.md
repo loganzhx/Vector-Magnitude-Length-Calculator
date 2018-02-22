@@ -1,2 +1,2 @@
 # Vector-Magnitude-Length-Calculator
-For use in MATH170 at Otago
+Java Script that is useful in MATH170 at Otago
