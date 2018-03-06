@@ -1,6 +1,8 @@
 import java.util.Scanner; 
 
+/*Enter values a, b, and c*/
 public class VectorLength {
+  
   public static void main( String [ ] args ) {
     double a, b, c;
     Scanner scan = new Scanner( System.in ); 
@@ -10,7 +12,6 @@ public class VectorLength {
     b = scan.nextDouble(); 
     System.out.println( "Enter value c of vector (a,b,c): " );
     c = scan.nextDouble(); 
-    System.out.println(Math.sqrt(a*a+b*b+c*c));
-      
+    System.out.println(Math.sqrt(a*a + b*b + c*c));  
   }
 }
